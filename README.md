@@ -1,6 +1,4 @@
-<img src="https://github.com/HenriqueJRodrigues/HenriqueJRodrigues/blob/main/github-screenshots/banner.PNG">
 
-<br>
 
 ### 📚 Estudando/Aprimorando
 
